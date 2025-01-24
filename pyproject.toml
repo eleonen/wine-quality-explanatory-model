@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "wine-quality-explanatory-model"
+name = "wine-quality-model"
 version = "0.1.0"
 description = ""
 authors = ["Erikas Leonenka <e.leonenka@gmail.com>"]
@@ -7,13 +7,13 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-numpy = "^2.2.1"
+numpy = "^2.2.2"
 pandas = "^2.2.3"
 matplotlib = "^3.10.0"
 seaborn = "^0.13.2"
-ipykernel = "^6.29.5"
 statsmodels = "^0.14.4"
-scipy = "^1.15.0"
+scikit-learn = "^1.6.1"
+ipykernel = "^6.29.5"
 
 
 [build-system]
