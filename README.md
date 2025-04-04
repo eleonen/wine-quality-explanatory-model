@@ -139,4 +139,4 @@ The analysis includes:
 - Develop a model that explains the key drivers of wine quality.
 
 ## Contributors
-- [Erikas Leonenka](https://github.com/Vixamon)
+- [Erikas Leonenka](https://github.com/eleonen)
